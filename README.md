@@ -20,5 +20,5 @@ Full Stack Web Developer
 - System Design
 
 ## Connect With Me
-LinkedIn: your-linkedin
-Email: your-email
+LinkedIn: https://www.linkedin.com/in/chirag-prajapati-58b3a7283/
+Email: CP920848@gmail.com

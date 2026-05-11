@@ -1,4 +1,4 @@
-# Hi, I'm Chirag 👋
+# Hi, I'm Chirag Prajapati👋
 
 Full Stack Web Developer
 
